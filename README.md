@@ -51,7 +51,7 @@ FTNs. Simply pick the one you like the most and add it to each FTN you add to
 settings.ini. The first 10 lines should display nicely above the listings, so 
 you may need to make edits as needed.
 
-If you need an ANSI file for DOVE-Net, look for dove-net_logos.zip.
+If you need an ANSI file for DOVE-Net, look for [dove-net_logos.zip](https://conchaos.synchro.net/files/dove-net_logos.zip).
 
 
 ## Limitations:
